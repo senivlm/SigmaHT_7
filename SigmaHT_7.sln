@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_7_2", "SigmaHT_7_2\SigmaHT_7_2.csproj", "{EA40741D-2DE7-4F93-A15E-4B698DE8193F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaHT_7_1", "SigmaHT_7_1\SigmaHT_7_1.csproj", "{52BBBDCC-33DC-426A-B315-FFF1F335EBB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA40741D-2DE7-4F93-A15E-4B698DE8193F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA40741D-2DE7-4F93-A15E-4B698DE8193F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA40741D-2DE7-4F93-A15E-4B698DE8193F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA40741D-2DE7-4F93-A15E-4B698DE8193F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BBBDCC-33DC-426A-B315-FFF1F335EBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BBBDCC-33DC-426A-B315-FFF1F335EBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BBBDCC-33DC-426A-B315-FFF1F335EBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BBBDCC-33DC-426A-B315-FFF1F335EBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC093A4-ED14-4A82-8853-8B8DA848FFEA}
+	EndGlobalSection
+EndGlobal
