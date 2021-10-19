@@ -5,7 +5,7 @@ using System.IO;
 namespace SigmaHT_7_2
 {
     class Menu
-    {
+    {паовіфарвіппал
         Dictionary<string, double> productsWeights;
         Dictionary<string, double> productsPrices;
 
